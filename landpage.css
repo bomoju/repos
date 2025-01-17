@@ -1,0 +1,133 @@
+.header{
+    background-color:rgba(4, 3, 3, 0.85);
+    color: white;
+    padding: 0px 60px 0px 60px ;
+    
+
+.minih{
+    display: flex;
+    justify-content: space-between;
+    align-items: last baseline;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.subhead{
+    margin-bottom: 55px;
+}
+.image{border: 1px solid gray;
+    background-color:gray;
+    padding: 0px 120px 0px 80px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+ 
+}
+
+.anchor{
+    font-size: 20px;
+    display: flex;
+    gap: 30px;
+}
+
+}
+
+.border{
+    border: 3px solid blue;
+    width: 45px;
+    height: 40px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom:20px;
+    display: flex;
+}
+.mainbo{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px;
+    margin-bottom: 55px;
+}
+
+.text{
+    display: flex;
+    gap: 30px;
+    margin-top:-90px;
+    margin-left: 60px;
+    justify-content: space-evenly;
+    margin-bottom: 60px;
+
+}
+h3{
+    display: flex;
+    justify-content: center;
+}
+
+.qout{
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 70px;
+    
+}
+
+#theo{
+font-size: larger;
+font-weight: bold;
+margin: 0  0 50px 230px
+
+}
+
+.blu{
+   border: 1px blue solid; 
+   width: 700px;
+   height:70px;
+   background-color: blue;
+   color: white;
+   margin: auto;
+   padding: 30px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+footer{
+    background-color: rgb(41, 37, 37);
+    color: white;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    font-size: 20px;
+
+}
+#call{
+    font-size: 20px;
+    font-weight: bold;
+}
+button{
+    padding: 7px;
+    background-color: blue;
+    color: white;
+    border: 2px white solid;
+    border-radius: 5px;
+}
+#pro{
+    margin:100px 0px -10px 0px;
+
+}
+#mhead{font-size: 26px;
+    font-weight: bold;
+    display: flex;
+     justify-content: center;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}

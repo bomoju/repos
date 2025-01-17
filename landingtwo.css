@@ -1,0 +1,53 @@
+
+body{
+    width: 100%;
+    height: 100%;
+    margin: 5px;;
+}
+.big{
+    font-size: 40px;
+    font-weight: bold;
+    color: blue;
+    margin-top: -10px;
+}
+
+.container{
+    background-color: rgba(31, 28, 28, 0.953);
+    margin-top: -30px;
+    padding: 10px;
+    color: white;
+}
+
+span{
+    font-size: 18px;
+    font-weight: 400;
+    
+}
+.sbig{
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.smed{
+    font-size: 24px;
+    font-weight: bold;
+}
+.bluspan{
+    color: blue;
+    font-weight: bold;
+}
+.bdowp{
+    font-size: 36px;
+    font-weight: 900;
+}
+.ash{
+    background-color: #e5e7eb;
+    padding: 10px;
+}
+.las{
+    font-weight: bold;
+}
+.last{
+    font-family: italic;
+    font-size: 36px;
+}
